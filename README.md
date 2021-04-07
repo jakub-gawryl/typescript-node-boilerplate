@@ -1,0 +1,3 @@
+# TypeScript + Node + Jest + Gulp
+
+Application description...
