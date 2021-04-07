@@ -11,9 +11,6 @@
     "start": "cross-env NODE_ENV=production node ./build/main.js",
     "test": "./node_modules/jest/bin/jest.js --passWithNoTests"
   },
-  "dependencies": {
-    "moment": "^2.29.1"
-  },
   "devDependencies": {
     "@types/jest": "^26.0.22",
     "@types/node": "^14.14.22",
